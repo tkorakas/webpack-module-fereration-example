@@ -1,5 +1,6 @@
 import React from "react";
-import Marketing from "./components/Marketing";
+import { Marketing } from "./components/Marketing";
+
 export const App = () => {
   return (
     <div>
